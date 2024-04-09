@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="9e445c0b47d10210735697da116d4322" sys_domain="global" table="x_1311846_wish_lis_wish_item" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>requester</element>
+            <element>display_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-05 17:01:21</sys_created_on>
-            <sys_id>9465144347550210735697da116d4344</sys_id>
+            <sys_created_on>2024-04-09 18:17:27</sys_created_on>
+            <sys_id>da2dc51447650210735697da116d4396</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1311846_wish_lis_wish_item" sys_domain="global" view="Default view">9e445c0b47d10210735697da116d4322</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-05 17:01:21</sys_updated_on>
+            <sys_updated_on>2024-04-09 18:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>display_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-05 17:01:21</sys_created_on>
-            <sys_id>1865144347550210735697da116d4344</sys_id>
+            <sys_created_on>2024-04-09 18:17:27</sys_created_on>
+            <sys_id>5e2dc51447650210735697da116d4396</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1311846_wish_lis_wish_item" sys_domain="global" view="Default view">9e445c0b47d10210735697da116d4322</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-05 17:01:21</sys_updated_on>
+            <sys_updated_on>2024-04-09 18:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,41 +32,27 @@
             <element>item</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-05 17:01:21</sys_created_on>
-            <sys_id>9865144347550210735697da116d4344</sys_id>
+            <sys_created_on>2024-04-09 18:17:27</sys_created_on>
+            <sys_id>de2dc51447650210735697da116d4396</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1311846_wish_lis_wish_item" sys_domain="global" view="Default view">9e445c0b47d10210735697da116d4322</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-05 17:01:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>quantity</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-05 17:01:21</sys_created_on>
-            <sys_id>1c65144347550210735697da116d4344</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1311846_wish_lis_wish_item" sys_domain="global" view="Default view">9e445c0b47d10210735697da116d4322</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-05 17:01:21</sys_updated_on>
+            <sys_updated_on>2024-04-09 18:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>url</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-05 17:01:21</sys_created_on>
-            <sys_id>9c65144347550210735697da116d4344</sys_id>
+            <sys_created_on>2024-04-09 18:17:27</sys_created_on>
+            <sys_id>522dc51447650210735697da116d4397</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1311846_wish_lis_wish_item" sys_domain="global" view="Default view">9e445c0b47d10210735697da116d4322</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-05 17:01:21</sys_updated_on>
+            <sys_updated_on>2024-04-09 18:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
